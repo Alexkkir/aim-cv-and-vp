@@ -1,0 +1,16 @@
+*.pt
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.mkv
+**/.ipynb_checkpoints
+**/__pycache__
+**/events.out.*
+*.zip
+*.tar
+*.tar.gz
+**/wandb
+**/.vscode
+**/.hypothesis
+**/.DS_Store
